@@ -13,4 +13,6 @@ AirBnB in NYC: A Tableau Dashboard by Think Design:
 
 This dashboard provides insights about Airbnb in New York City in 2019. It covers topics such as Airbnb's popularity, room categories, and price trends across different regions.
 
+
+
 ![image](https://github.com/shubhangirm1/Transforming-EDAs-to-Dashboards/assets/91402788/07dd773e-9ec3-4e81-82ba-a71e05c517a9)
